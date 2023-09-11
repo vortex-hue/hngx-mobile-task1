@@ -2,8 +2,9 @@
 
 First Task for hngx mobile dev.
 
+![Screen of app](./Screenshot.png)
 ## Getting Started
-    ![Screen of app](./Screenshot.png)
+    
 
     In order to run this project locally, kindly follow this instruction
 
