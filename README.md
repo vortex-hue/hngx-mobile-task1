@@ -3,6 +3,8 @@
 First Task for hngx mobile dev.
 
 ## Getting Started
+    ![Screen of app](./Screenshot.png)
+
     In order to run this project locally, kindly follow this instruction
 
     - make sure you have flutter and dart installed on your machine, if not, consider doing that now
