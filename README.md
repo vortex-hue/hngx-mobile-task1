@@ -1,17 +1,33 @@
 # hngx_mobile_task1
 
-A new Flutter project.
+First Task for hngx mobile dev.
 
 ## Getting Started
+    In order to run this project locally, kindly follow this instruction
 
-This project is a starting point for a Flutter application.
+    - make sure you have flutter and dart installed on your machine, if not, consider doing that now
+    - if using vscode or android studio, install flutter extension to help with the boilerplate temp
+    
+    - clone the repo using
+    ``` git clone https://github.com/vortex-hue/hngx-mobile-task1.git ```
 
-A few resources to get you started if this is your first Flutter project:
+    - move into the code dir
+    ``` cd hngx_mobile_task1 ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    - try updating the dependecies gotten
+    ``` flutter pub get    ```
+    this command, updates / downloads the depencies in pubspec.yaml
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# hngx-mobile-task1
+    - run the project locally
+    ``` flutter run ```
+    this would handle the rest
+
+
+### Extra info
+
+    incase you encounter any errors along the long, or bugs, kindly send me an email on 
+    Email: peter@linkedtrust.us
+    or
+    Gmail: benjaminparish6@gmail.com
+    
+
